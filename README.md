@@ -43,7 +43,7 @@ gatsby build
 Home page for JAMstack, tons of [https://jamstack.org/resources/](https://jamstack.org/resources/)
 
 [StaticGen](https://www.staticgen.com/)
-Great collection of static site generators. Browse my technologies and license.
+Great collection of static site generators. Browse by technologies and license.
 
 [JAMstack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
 Podcast focused around JAMstack
