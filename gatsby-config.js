@@ -1,4 +1,6 @@
-const connectionString = process.env.CONFERENCES_DB_CONNECTIONSTRING
+const connectionString =
+  process.env.CONFERENCES_DB_CONNECTIONSTRING ||
+  'postgres://postgres@localhost:5432/postgres'
 const disqusKey = process.env.CONFERENCES_DISQUS_KEY || 'gatsby-starter-blog'
 
 module.exports = {
